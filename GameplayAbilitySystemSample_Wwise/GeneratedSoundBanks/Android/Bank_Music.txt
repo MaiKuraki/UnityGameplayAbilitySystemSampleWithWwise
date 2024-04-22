@@ -1,0 +1,3 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2548253688	PlaylistStop_Playlist_GameplayMusic			\WorkUnit_Music\PlaylistStop_Playlist_GameplayMusic	
+

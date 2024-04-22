@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo>
+	<Project Name="GameplayAbilitySystemSample" GUID="{1C4936E0-F0C3-4F29-9A96-FA64CCF5D983}" Generator="2023.1.3.8471"/>
+	<CacheRoot>../../../../../GameplayAbilitySystemSample_Wwise/.cache</CacheRoot>
+	<Platforms>
+		<Platform Name="Android" GUID="{616DAB06-8DBE-4C3C-A8A2-50B69FCFAD43}" BasePlatform="Android" BasePlatformGUID="{A2D401DE-B8B6-4FEB-8142-137C34D507CA}" Path="../../../../../GameplayAbilitySystemSample_Wwise/GeneratedSoundBanks/Android"/>
+		<Platform Name="Windows" GUID="{8387AC6F-ED0D-472E-9271-DFEEEEA7349A}" BasePlatform="Windows" BasePlatformGUID="{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}" Path="../../../../../GameplayAbilitySystemSample_Wwise/GeneratedSoundBanks/Windows"/>
+	</Platforms>
+	<Languages>
+		<Language Name="English(US)" Id="684519430" GUID="{CB7B6F66-0FF8-4BB5-B1E3-7D85BA2B98AF}" Default="true" UseAsStandIn="true"/>
+	</Languages>
+	<FileHash>{F3E81EAA-B06E-5DE9-8026-AF8EE7E0E382}</FileHash>
+</ProjectInfo>

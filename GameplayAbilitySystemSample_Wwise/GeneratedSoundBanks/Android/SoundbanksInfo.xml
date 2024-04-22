@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Android" BasePlatform="Android" SchemaVersion="16" SoundBankVersion="150">
+	<RootPaths>
+		<ProjectRoot>../..</ProjectRoot>
+		<SourceFilesRoot>../../.cache/Android</SourceFilesRoot>
+		<SoundBanksRoot>.</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>.</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Type="User" Language="SFX" Hash="{28F45D9F-DE33-CA70-710D-D12A00895292}">
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+			<Plugins>
+				<AudioDevices>
+					<Plugin Id="2317455096" Name="No_Output" LibName="No Output" LibId="11862023"/>
+					<Plugin Id="3859886410" Name="System" LibName="System" LibId="11403271"/>
+				</AudioDevices>
+			</Plugins>
+			<Busses>
+				<Bus Id="1162281553" Name="Bus_Music"/>
+				<Bus Id="3803692087" Name="Master Audio Bus"/>
+				<Bus Id="3895923845" Name="Bus_SFX"/>
+			</Busses>
+		</SoundBank>
+		<SoundBank Id="2800366463" Type="User" Language="SFX" Hash="{B8EAB188-8508-A01E-21A9-DBA38FD4D8ED}">
+			<ShortName>Bank_Music</ShortName>
+			<Path>Bank_Music.bnk</Path>
+			<Events>
+				<Event Id="2548253688" Name="PlaylistStop_Playlist_GameplayMusic" MaxAttenuation="0" DurationType="OneShot" DurationMin="0" DurationMax="0"/>
+			</Events>
+		</SoundBank>
+		<SoundBank Id="4017023971" Type="User" Language="SFX" Hash="{C9B8FFA5-3BC4-C8E4-8A93-FC7508CD9AB2}">
+			<ShortName>Bank_SFX</ShortName>
+			<Path>Bank_SFX.bnk</Path>
+		</SoundBank>
+	</SoundBanks>
+	<FileHash>{072CAF2C-6235-8EAC-4064-0A3DD85D4C4F}</FileHash>
+</SoundBanksInfo>
